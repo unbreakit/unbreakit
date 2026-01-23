@@ -1,26 +1,20 @@
 # Hello, I'm Chasen S.
 <a href="www.linkedin.com/in/chasen-stephens-30951b347"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Cybersecurity graduate from Utah State University pursuing an entry-level SOC Analyst role. Network+ and Security+ certified, with hands-on experience in server troubleshooting and SOC simulations using TryHackMe and LetsDefend.io
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My time in the IT field has 
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/BigBananaBun/Microsoft-Sentinel-Lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/BigBananaBun/Microsoft-Sentinel-Lab">Azure & Sentinel Project</a>|
+| IDS and Splunk Implementation | <a href="https://google.com](https://github.com/BigBananaBun/Splunk-Snort-Home-Lab">Snort & Splunk Project</a>|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
