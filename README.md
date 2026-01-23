@@ -7,17 +7,17 @@ Cybersecurity graduate from Utah State University pursuing an entry-level SOC An
 
 My time in the IT field has 
 
-## Skills
+## Projects
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Summary                                         | Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/BigBananaBun/Microsoft-Sentinel-Lab">Azure & Sentinel Project</a>|
-| IDS and Splunk Implementation | <a href="https://google.com](https://github.com/BigBananaBun/Splunk-Snort-Home-Lab">Snort & Splunk Project</a>|
+| IDS and Splunk Implementation | <a href="https://github.com/BigBananaBun/Splunk-Snort-Home-Lab">Snort & Splunk Project</a>|
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
@@ -36,6 +36,11 @@ My time in the IT field has
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+### IDS
+<div>
+    <img src="https://img.shields.io/badge/-Snort-CC0000?&style=for-the-badge&logo=snort&logoColor=white" />
+<div>
+
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
@@ -43,6 +48,3 @@ My time in the IT field has
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
