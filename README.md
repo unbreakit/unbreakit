@@ -6,7 +6,7 @@
 
 Cybersecurity graduate from Utah State University pursuing an entry-level SOC Analyst role. Network+ and Security+ certified, with hands-on experience in server troubleshooting and SOC simulations using TryHackMe and LetsDefend.io.
 
-## Objective
+## About Me
 
 My experience working in IT sparked a strong interest in cybersecurity and how systems are protected in real-world environments. Since then, I have been consistently developing new skills and deepening my knowledge of security tools, concepts, and defensive practices.
 
