@@ -16,6 +16,7 @@ My experience working in IT sparked a strong interest in cybersecurity and how s
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/BigBananaBun/Microsoft-Sentinel-Lab">Azure & Sentinel Project</a>|
 | IDS and Splunk Implementation | <a href="https://github.com/BigBananaBun/Splunk-Snort-Home-Lab">Snort & Splunk Project</a>|
+| EDR and SOAR Implementation | <a href="https://github.com/unbreakit/EDR-SOAR-Project">EDR & SOAR Project</a>|
 
 ## SOC Practice
 
@@ -37,6 +38,7 @@ My experience working in IT sparked a strong interest in cybersecurity and how s
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LimaCharlie-000000?&style=for-the-badge&logo=limacharlie&logoColor=white" />
 </div>
 
 ### SIEM
