@@ -19,11 +19,16 @@ My experience working in IT sparked a strong interest in cybersecurity and how s
 | EDR and SOAR Implementation | <a href="https://github.com/unbreakit/EDR-SOAR-Project">EDR & SOAR Project</a>|
 | Active Directory Implementation | <a href="https://github.com/unbreakit/Active-Directory-Project">Active Directory Project</a>|
 
+| SOC Practice                                  | Project        |
+|-----------------------------------------------|----------------------------|
+| IDOR Attacks (Indirect Object Reference          | <a href=
+
 ## SOC Practice
 
 <a href="https://app.letsdefend.io/user/unbreakit">
   <img src="https://img.shields.io/badge/-LetsDefend-0A84FF?&style=for-the-badge&logo=letsdefend&logoColor=white" />
 </a>
+
 
 
 
