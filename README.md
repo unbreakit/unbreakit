@@ -21,7 +21,7 @@ My experience working in IT sparked a strong interest in cybersecurity and how s
 
 | SOC Practice                                  | Project        |
 |-----------------------------------------------|----------------------------|
-| IDOR Attacks (Indirect Object Reference          | <a href=
+| IDOR Alerts (Indirect Object Reference)          | <a href="https://github.com/unbreakit/LetsDefend-Alert-1">IDOR Alerts</a>|
 
 ## SOC Practice
 
