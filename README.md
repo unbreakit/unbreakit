@@ -10,7 +10,7 @@ Cybersecurity graduate from Utah State University pursuing an entry-level SOC An
 
 My experience working in IT sparked a strong interest in cybersecurity and how systems are protected in real-world environments. Since then, I have been consistently developing new skills and deepening my knowledge of security tools, concepts, and defensive practices.
 
-## Projects
+## Cybersecurity Projects
 
 | Summary                                         | Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,15 +19,14 @@ My experience working in IT sparked a strong interest in cybersecurity and how s
 | EDR and SOAR Implementation | <a href="https://github.com/unbreakit/EDR-SOAR-Project">EDR & SOAR Project</a>|
 | Active Directory Implementation | <a href="https://github.com/unbreakit/Active-Directory-Project">Active Directory Project</a>|
 
-| SOC Practice                                  | Project        |
+## SOC Practice
+
+| Summary                                  | Project        |
 |-----------------------------------------------|----------------------------|
 | IDOR Alerts (Indirect Object Reference)          | <a href="https://github.com/unbreakit/LetsDefend-Alert-1">IDOR Alerts</a>|
 
-## SOC Practice
 
-<a href="https://app.letsdefend.io/user/unbreakit">
-  <img src="https://img.shields.io/badge/-LetsDefend-0A84FF?&style=for-the-badge&logo=letsdefend&logoColor=white" />
-</a>
+
 
 
 
