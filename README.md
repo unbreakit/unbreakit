@@ -26,6 +26,7 @@ My experience working in IT sparked a strong interest in cybersecurity and how s
 | IDOR Alerts (Indirect Object Reference)          | <a href="https://github.com/unbreakit/LetsDefend-Alert-1">IDOR Alerts</a>|
 | Command Injection Alerts | <a href="https://github.com/unbreakit/LetsDefend-Command-Injection-Alerts">Command Injection Alerts</a>|
 | Phishing Alerts | <a href="https://github.com/unbreakit/LetsDefend-Phishing-Alerts">Phishing Alerts</a>|
+| SQL Injection Alerts | <a href="https://github.com/unbreakit/LetsDefend-SQL-Injection-Alerts">SQL Injection Alerts</a>|
 
 
 
