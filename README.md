@@ -32,7 +32,7 @@ My experience working in IT sparked a strong interest in cybersecurity and how s
 
 | Summary                                  | Project        |
 |-----------------------------------------------|----------------------------|
-| 
+| Wireshark Challenge | <a href="https://github.com/unbreakit/TryHackMe-Challenge-Packed-Light">Packed Light</a>|
 
 
 ## Tools
